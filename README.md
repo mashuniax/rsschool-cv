@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mashuniax.github.io/rsschool-cv/cv
