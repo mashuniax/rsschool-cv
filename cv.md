@@ -10,4 +10,8 @@
 *JS
 *Git
 *Graphics Editors: Adobe Photoshop, Zeplin
+## Education
+*Telecommunication Systems, Networks and Devices, Master of Technical Sciences (2019)
+*Infocommunication Technologies (Multimedia Information Distribution Systems), Telecommunications Engineer (2017)
+
 
